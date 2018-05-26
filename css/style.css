@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Amaranth|Gloria+Hallelujah|Roboto');
+
+.center {text-align: center}
+
+
+.b {font-weight: 900;
+    color: blue}
+
+#team { padding: 50px;
+}
+
+.p i {padding: 40px}
+.p {padding: 40px}
+
+.jumbotron {
+    height: 600px;
+    text-align: center;
+    box-shadow: 0 2px 2px #bbb;
+    background:url('https://images.unsplash.com/photo-1501951023790-cefecd517f88?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=015e0f7e0737164046b1b70e74e81d0e&auto=format&fit=crop&w=1498&q=80');
+    color:white; /*center center avant url* */
+
+}
+.jumbotron h1 { 
+    position: relative;
+    top:20%;
+    font-family:'Gloria Hallelujah'; }
+
+.navbar {margin-bottom:0;}
+body {padding-bottom: 150px}
